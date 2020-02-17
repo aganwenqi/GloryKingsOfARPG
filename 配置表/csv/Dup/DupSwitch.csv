@@ -1,0 +1,6 @@
+id(每章几个副本),章节名,副本id
+Id,ChapterName,DupIds
+int,string,string
+1,逃离孤儿院,1001、1002
+2,绝命逃亡,2001、2002
+3,回到峡谷,3001、3002

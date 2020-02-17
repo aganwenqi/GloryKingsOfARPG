@@ -1,0 +1,24 @@
+id,名字,模型名,展示模型名,图标,拥有技能,角色类型(1玩家 2怪物 3npc),攻击对象(1玩家 2怪物 3所有),词缀套,AI表,技能权重表,基础音效
+Id,Name,ModelName,ShowModel,Icon,AllSkills,characterType,Target,Affx,AI,SkillWeight,Sounds
+int,string,string,string,string,string,int,int,int,int,int,int
+1001,托儿索,sword,sword_shower,sword,10011|10012|10013|10014|10015|10016|10017,1,2,1002,100,100,1001
+1002,暴走萝莉,luoli,luoli_shower,luoli,10018|10019|10020|10021|10022|10023|10024,1,2,1002,101,101,1002
+9001,托儿索,sword,sword_shower,sword_x,10011|10012|10013|10014|10015|10016|10017,1,2,9001,100,100,1001
+9002,暴走萝莉,luoli,luoli_shower,luoli_x,10018|10019|10020|10021|10022|10023|10024,1,2,9001,101,101,1002
+2001,托儿索,sword,sword_shower,sword,10011|10012|10013|10014|10015|10016|10017,2,1,2001,100,100,1001
+2002,暴走萝莉(疯狂),luoli,luoli_shower,luoli,10018|10019|10020|10021|10022|10023|10024,2,1,2001,106,101,1002
+2003,锤子怪(1),chuiMonster,luoli_shower,luoli,10025,2,1,2002,102,0,2003
+2004,锤子怪(1234),chuiMonster,luoli_shower,luoli,10025|10026|10027|10028,2,1,2002,102,0,2003
+2005,锤子怪(12345),chuiMonster,luoli_shower,luoli,10025|10026|10027|10028|10030,2,1,2002,102,102,2003
+2006,牛头怪(12),bullMonster,luoli_shower,luoli,10025|10026,2,1,2004,102,0,2003
+2007,牛头怪(125),bullMonster,luoli_shower,luoli,10025|10026|10029,2,1,2004,102,103,2003
+2008,火红魔鬼,Devil,luoli_shower,luoli,10031,2,1,2005,103,0,2004
+2009,小龙,xiaoLong,luoli_shower,luoli,10059|10032,2,1,2006,104,104,2005
+2010,机械虫,insect,luoli_shower,luoli,10033,2,1,2005,105,0,0
+2011,蓝章鱼(123),Оctopus,luoli_shower,luoli,10034|10035|10036,2,1,2007,107,0,2007
+2012,蓝色河马(1234),Hippo,luoli_shower,luoli,10037|10038|10039|10040,2,1,2008,108,108,2008
+2013,巫灵(1256),Ghost,luoli_shower,luoli,10041|10042|10045|10046,2,1,2009,109,105,2009
+2014,生化死士(1235),Alien,luoli_shower,luoli,10049|10050|10051|10053,2,1,2004,110,106,2010
+2015,机械木偶(12356),Golem,luoli_shower,luoli,10054|10055|10056|10057|10058,2,1,2010,111,107,2011
+2016,垃圾托儿索,sword,sword_shower,sword,10011|10012|10013|10014,2,1,2001,100,0,1001
+2017,垃圾暴走萝莉,luoli,luoli_shower,luoli,10018|10019|10020|10021,2,1,2001,101,0,1002

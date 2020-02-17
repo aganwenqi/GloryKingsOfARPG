@@ -1,0 +1,20 @@
+技能行为 (1普通行为 2弹道行为)
+    
+SkillComp
+	 参数1		参数2		参数3		参数4
+1普通行为     伤害倍数          圆的半径	角度限制值	位置偏移值
+2弹道行为     弹道id             附加弹道id               无                            无
+附加弹道id：普通攻击状态被改变时的id
+SkillCompBehaviourType：1普通行为（范围检测） 2弹道技能 3buff 
+
+Bullet
+参数1          参数2                 参数3               参数4
+伤害倍数      速度                  存活时长          粒子延时出现
+
+buff
+参数1          参数2                 参数3               参数4
+伤害倍数     buff时长             无                     无
+
+AdditioalEffect
+AdditioalStateType:附加效果类型：1、减速
+HurtType：伤害计算：1、固定  2乘玩家属性

@@ -1,0 +1,11 @@
+id,名字,技能释放音效,延时播放
+Id,Name,SkillClip,DelaySkill
+int,string,string,float
+101111,猴气斩,0,0
+101114,大轰炮,ll/skill7_2,0.2
+101115,大轰炮爆炸,ll/skill7_3,0
+101116,电激光,ll/skill6_2,0
+101117,电激光爆炸,ll/skill6_3,0
+101118,3段天雷,ll/skill5_2,0
+101121,机械虫普攻1,,0
+101122,巫灵魔法炮,,0

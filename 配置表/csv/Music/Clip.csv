@@ -1,0 +1,16 @@
+id,名字,音效,延时播放
+Id,Name,ClipName,Delay
+int,string,string,float
+1001,普通按钮,button/norml,0
+1002,选择英雄按钮,button/selectHero,0
+1003,开始游戏按钮,button/beginGame,0
+1004,打开面板按钮,button/open,0
+1005,退出按钮,button/quit,0
+1006,进入游戏按钮,button/InJoin,0
+2001,登陆背景音乐,background/login,0
+2002,选择英雄背景,background/selectHero,0
+2003,主场景背景,background/main,0
+2004,逃亡路背景,background/island,0
+2005,孤儿所,background/guersuo,0
+2006,召唤师峡谷,background/lol,0
+2007,群英会,background/lol2,0

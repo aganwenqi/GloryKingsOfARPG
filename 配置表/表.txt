@@ -1,0 +1,19 @@
+HeroData ：角色和角色基础信息
+AdminHero：管理员角色
+BaseAttribute : 创建角色初始化属性
+SkillData : 技能
+SkillCompData : 技能组件
+Bullet ：弹道，链接在技能组件表里绑定
+SkillCompHurt : 技能组件伤害计算表
+AdditinoalEffect：技能附加状态
+AttributeConversion :  属性换算表，比如 1力量等于多少攻击力
+FxData :  特效表
+SkillAIWeight ：技能释放权重表，根据权重优先选放哪个技能
+MonsterAI ：怪物的ai行为配置
+CharacterAI：角色AI行为限定值设置
+Dup：副本配置
+DupSwitch：副本选择配置
+Clip：基本音效音乐
+CharacterClip：角色技能和说话音效
+CharcaterOhterClip：角色其他音效
+BulletClip：弹道附加音效

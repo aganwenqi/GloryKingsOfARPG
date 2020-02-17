@@ -1,0 +1,13 @@
+id,名字,受击音效,延时播放,死亡音效,延时播放,台词音效一,延时播放
+Id,Name,HitClip,DelayHit,DeadClip,DelayDead,Speak1,DelaySp1
+int,string,string,float,string,float,string,float
+1001,托儿索,sw/hit,0,sw/dead,0,sw/begin,0
+1002,暴走萝莉,ll/hit,0,ll/dead,0,ll/begin,0
+2003,锤子怪物,bull/hit,0,bull/dead,0,,0
+2004,火红魔鬼,devil/hit,0,devil/dead,0,,0
+2005,小龙,xiaolong/hit,0,xiaolong/dead,0,,0
+2007,蓝章鱼,octopus/hit,0,octopus/dead,0,,0
+2008,蓝河马,hippo/hit,0,hippo/dead,0,,0
+2009,巫灵,ghost/hit,0,ghost/dead,0,,0
+2010,生化死士,alien/hit,0,alien/dead,0,,0
+2011,机械木偶,golem/hit,0,golem/dead,0,,0

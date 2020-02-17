@@ -1,0 +1,4 @@
+战斗模型：Resources/Prefab/Character/
+展示模型：Resources/Prefab/Shower/
+英雄图标：Resources/Picture/HeroIcon/
+英雄技能图标：Art/UI/BattleUI/SkillPanel/
