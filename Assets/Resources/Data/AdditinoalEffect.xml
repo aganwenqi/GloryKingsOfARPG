@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AdditinoalEffect>
+  <item Id="100" Name="移动速度" AdditioalStateType="1" Hurt="-2" HurtType="1" TimeLen="5" Count="1" Fx="1100001" />
+  <item Id="101" Name="灼伤" AdditioalStateType="2" Hurt="-20" HurtType="1" TimeLen="5" Count="5" Fx="1100002" />
+  <item Id="102" Name="击退1" AdditioalStateType="3" Hurt="-2" HurtType="1" TimeLen="0.8" Count="1" Fx="0" />
+  <item Id="103" Name="击退2" AdditioalStateType="3" Hurt="-2" HurtType="1" TimeLen="0.5" Count="1" Fx="0" />
+  <item Id="104" Name="击退2" AdditioalStateType="3" Hurt="-2" HurtType="1" TimeLen="0.5" Count="1" Fx="0" />
+</AdditinoalEffect>

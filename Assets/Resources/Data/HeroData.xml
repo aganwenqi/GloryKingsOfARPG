@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HeroData>
+  <item Id="1001" Name="托儿索" ModelName="sword" ShowModel="sword_shower" Icon="sword" AllSkills="10011|10012|10013|10014|10015|10016|10017" characterType="1" Target="2" Affx="1002" AI="100" SkillWeight="100" Sounds="1001" />
+  <item Id="1002" Name="暴走萝莉" ModelName="luoli" ShowModel="luoli_shower" Icon="luoli" AllSkills="10018|10019|10020|10021|10022|10023|10024" characterType="1" Target="2" Affx="1002" AI="101" SkillWeight="101" Sounds="1002" />
+  <item Id="9001" Name="托儿索" ModelName="sword" ShowModel="sword_shower" Icon="sword_x" AllSkills="10011|10012|10013|10014|10015|10016|10017" characterType="1" Target="2" Affx="9001" AI="100" SkillWeight="100" Sounds="1001" />
+  <item Id="9002" Name="暴走萝莉" ModelName="luoli" ShowModel="luoli_shower" Icon="luoli_x" AllSkills="10018|10019|10020|10021|10022|10023|10024" characterType="1" Target="2" Affx="9001" AI="101" SkillWeight="101" Sounds="1002" />
+  <item Id="2001" Name="托儿索" ModelName="sword" ShowModel="sword_shower" Icon="sword" AllSkills="10011|10012|10013|10014|10015|10016|10017" characterType="2" Target="1" Affx="2001" AI="100" SkillWeight="100" Sounds="1001" />
+  <item Id="2002" Name="暴走萝莉(疯狂)" ModelName="luoli" ShowModel="luoli_shower" Icon="luoli" AllSkills="10018|10019|10020|10021|10022|10023|10024" characterType="2" Target="1" Affx="2001" AI="106" SkillWeight="101" Sounds="1002" />
+  <item Id="2003" Name="锤子怪(1)" ModelName="chuiMonster" ShowModel="luoli_shower" Icon="luoli" AllSkills="10025" characterType="2" Target="1" Affx="2002" AI="102" SkillWeight="0" Sounds="2003" />
+  <item Id="2004" Name="锤子怪(1234)" ModelName="chuiMonster" ShowModel="luoli_shower" Icon="luoli" AllSkills="10025|10026|10027|10028" characterType="2" Target="1" Affx="2002" AI="102" SkillWeight="0" Sounds="2003" />
+  <item Id="2005" Name="锤子怪(12345)" ModelName="chuiMonster" ShowModel="luoli_shower" Icon="luoli" AllSkills="10025|10026|10027|10028|10030" characterType="2" Target="1" Affx="2002" AI="102" SkillWeight="102" Sounds="2003" />
+  <item Id="2006" Name="牛头怪(12)" ModelName="bullMonster" ShowModel="luoli_shower" Icon="luoli" AllSkills="10025|10026" characterType="2" Target="1" Affx="2004" AI="102" SkillWeight="0" Sounds="2003" />
+  <item Id="2007" Name="牛头怪(125)" ModelName="bullMonster" ShowModel="luoli_shower" Icon="luoli" AllSkills="10025|10026|10029" characterType="2" Target="1" Affx="2004" AI="102" SkillWeight="103" Sounds="2003" />
+  <item Id="2008" Name="火红魔鬼" ModelName="Devil" ShowModel="luoli_shower" Icon="luoli" AllSkills="10031" characterType="2" Target="1" Affx="2005" AI="103" SkillWeight="0" Sounds="2004" />
+  <item Id="2009" Name="小龙" ModelName="xiaoLong" ShowModel="luoli_shower" Icon="luoli" AllSkills="10059|10032" characterType="2" Target="1" Affx="2006" AI="104" SkillWeight="104" Sounds="2005" />
+  <item Id="2010" Name="机械虫" ModelName="insect" ShowModel="luoli_shower" Icon="luoli" AllSkills="10033" characterType="2" Target="1" Affx="2005" AI="105" SkillWeight="0" Sounds="0" />
+  <item Id="2011" Name="蓝章鱼(123)" ModelName="Оctopus" ShowModel="luoli_shower" Icon="luoli" AllSkills="10034|10035|10036" characterType="2" Target="1" Affx="2007" AI="107" SkillWeight="0" Sounds="2007" />
+  <item Id="2012" Name="蓝色河马(1234)" ModelName="Hippo" ShowModel="luoli_shower" Icon="luoli" AllSkills="10037|10038|10039|10040" characterType="2" Target="1" Affx="2008" AI="108" SkillWeight="108" Sounds="2008" />
+  <item Id="2013" Name="巫灵(1256)" ModelName="Ghost" ShowModel="luoli_shower" Icon="luoli" AllSkills="10041|10042|10045|10046" characterType="2" Target="1" Affx="2009" AI="109" SkillWeight="105" Sounds="2009" />
+  <item Id="2014" Name="生化死士(1235)" ModelName="Alien" ShowModel="luoli_shower" Icon="luoli" AllSkills="10049|10050|10051|10053" characterType="2" Target="1" Affx="2004" AI="110" SkillWeight="106" Sounds="2010" />
+  <item Id="2015" Name="机械木偶(12356)" ModelName="Golem" ShowModel="luoli_shower" Icon="luoli" AllSkills="10054|10055|10056|10057|10058" characterType="2" Target="1" Affx="2010" AI="111" SkillWeight="107" Sounds="2011" />
+  <item Id="2016" Name="垃圾托儿索" ModelName="sword" ShowModel="sword_shower" Icon="sword" AllSkills="10011|10012|10013|10014" characterType="2" Target="1" Affx="2001" AI="100" SkillWeight="0" Sounds="1001" />
+  <item Id="2017" Name="垃圾暴走萝莉" ModelName="luoli" ShowModel="luoli_shower" Icon="luoli" AllSkills="10018|10019|10020|10021" characterType="2" Target="1" Affx="2001" AI="101" SkillWeight="0" Sounds="1002" />
+</HeroData>

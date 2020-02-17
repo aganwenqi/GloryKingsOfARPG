@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BaseAttribute>
+  <item Id="1002" Describe="玩家1" Speed="4" PhyHurt="80" MagicHurt="10" PhyDefend="5" MagicDefend="5" Power="6" Spell="2" Crit="10" Hp="3000" Mp="3000" BeHurtTime="1" />
+  <item Id="9001" Describe="管理员玩家" Speed="4" PhyHurt="80" MagicHurt="10" PhyDefend="5" MagicDefend="5" Power="6" Spell="2" Crit="20" Hp="10000" Mp="10000" BeHurtTime="1" />
+  <item Id="2001" Describe="英雄怪1" Speed="4" PhyHurt="30" MagicHurt="5" PhyDefend="5" MagicDefend="5" Power="5" Spell="2" Crit="0" Hp="1000" Mp="1000" BeHurtTime="1" />
+  <item Id="2002" Describe="锤子怪" Speed="4" PhyHurt="10" MagicHurt="0" PhyDefend="2" MagicDefend="2" Power="3" Spell="0" Crit="0" Hp="300" Mp="300" BeHurtTime="1.5" />
+  <item Id="2004" Describe="牛头怪" Speed="4" PhyHurt="15" MagicHurt="0" PhyDefend="5" MagicDefend="5" Power="6" Spell="0" Crit="0" Hp="500" Mp="500" BeHurtTime="1.5" />
+  <item Id="2005" Describe="魔鬼叉" Speed="4" PhyHurt="10" MagicHurt="10" PhyDefend="5" MagicDefend="5" Power="5" Spell="5" Crit="10" Hp="400" Mp="400" BeHurtTime="1.5" />
+  <item Id="2006" Describe="小龙" Speed="5" PhyHurt="5" MagicHurt="12" PhyDefend="5" MagicDefend="5" Power="5" Spell="10" Crit="20" Hp="700" Mp="700" BeHurtTime="1.5" />
+  <item Id="2007" Describe="蓝色章鱼" Speed="3" PhyHurt="12" MagicHurt="5" PhyDefend="8" MagicDefend="8" Power="8" Spell="8" Crit="30" Hp="500" Mp="500" BeHurtTime="1.5" />
+  <item Id="2008" Describe="蓝色河马" Speed="5" PhyHurt="20" MagicHurt="5" PhyDefend="15" MagicDefend="15" Power="10" Spell="10" Crit="0" Hp="1200" Mp="1200" BeHurtTime="1.5" />
+  <item Id="2009" Describe="巫灵" Speed="4" PhyHurt="5" MagicHurt="12" PhyDefend="3" MagicDefend="3" Power="3" Spell="15" Crit="10" Hp="500" Mp="500" BeHurtTime="1.2" />
+  <item Id="2010" Describe="机械木偶" Speed="4" PhyHurt="12" MagicHurt="0" PhyDefend="20" MagicDefend="20" Power="15" Spell="0" Crit="35" Hp="1500" Mp="1500" BeHurtTime="1.2" />
+</BaseAttribute>

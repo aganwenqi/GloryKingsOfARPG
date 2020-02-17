@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CharcaterOtherClip>
+  <item Id="1001" Name="托儿索" HitClip="sw/hit" DelayHit="0" DeadClip="sw/dead" DelayDead="0" Speak1="sw/begin" DelaySp1="0" />
+  <item Id="1002" Name="暴走萝莉" HitClip="ll/hit" DelayHit="0" DeadClip="ll/dead" DelayDead="0" Speak1="ll/begin" DelaySp1="0" />
+  <item Id="2003" Name="锤子怪物" HitClip="bull/hit" DelayHit="0" DeadClip="bull/dead" DelayDead="0" Speak1="" DelaySp1="0" />
+  <item Id="2004" Name="火红魔鬼" HitClip="devil/hit" DelayHit="0" DeadClip="devil/dead" DelayDead="0" Speak1="" DelaySp1="0" />
+  <item Id="2005" Name="小龙" HitClip="xiaolong/hit" DelayHit="0" DeadClip="xiaolong/dead" DelayDead="0" Speak1="" DelaySp1="0" />
+  <item Id="2007" Name="蓝章鱼" HitClip="octopus/hit" DelayHit="0" DeadClip="octopus/dead" DelayDead="0" Speak1="" DelaySp1="0" />
+  <item Id="2008" Name="蓝河马" HitClip="hippo/hit" DelayHit="0" DeadClip="hippo/dead" DelayDead="0" Speak1="" DelaySp1="0" />
+  <item Id="2009" Name="巫灵" HitClip="ghost/hit" DelayHit="0" DeadClip="ghost/dead" DelayDead="0" Speak1="" DelaySp1="0" />
+  <item Id="2010" Name="生化死士" HitClip="alien/hit" DelayHit="0" DeadClip="alien/dead" DelayDead="0" Speak1="" DelaySp1="0" />
+  <item Id="2011" Name="机械木偶" HitClip="golem/hit" DelayHit="0" DeadClip="golem/dead" DelayDead="0" Speak1="" DelaySp1="0" />
+</CharcaterOtherClip>

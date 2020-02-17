@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Clip>
+  <item Id="1001" Name="普通按钮" ClipName="button/norml" Delay="0" />
+  <item Id="1002" Name="选择英雄按钮" ClipName="button/selectHero" Delay="0" />
+  <item Id="1003" Name="开始游戏按钮" ClipName="button/beginGame" Delay="0" />
+  <item Id="1004" Name="打开面板按钮" ClipName="button/open" Delay="0" />
+  <item Id="1005" Name="退出按钮" ClipName="button/quit" Delay="0" />
+  <item Id="1006" Name="进入游戏按钮" ClipName="button/InJoin" Delay="0" />
+  <item Id="2001" Name="登陆背景音乐" ClipName="background/login" Delay="0" />
+  <item Id="2002" Name="选择英雄背景" ClipName="background/selectHero" Delay="0" />
+  <item Id="2003" Name="主场景背景" ClipName="background/main" Delay="0" />
+  <item Id="2004" Name="逃亡路背景" ClipName="background/island" Delay="0" />
+  <item Id="2005" Name="孤儿所" ClipName="background/guersuo" Delay="0" />
+  <item Id="2006" Name="召唤师峡谷" ClipName="background/lol" Delay="0" />
+  <item Id="2007" Name="群英会" ClipName="background/lol2" Delay="0" />
+</Clip>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SkillAIWeight>
+  <item Id="100" MiaoShu="0" Skill0ID="10011" Skill0="10" Skill0Random="100" Skill1ID="10015" Skill1="50" Skill1Random="90" Skill2ID="10016" Skill2="20" Skill2Random="70" Skill3ID="10017" Skill3="10" Skill3Random="20" />
+  <item Id="101" MiaoShu="0" Skill0ID="10018" Skill0="10" Skill0Random="10" Skill1ID="10022" Skill1="50" Skill1Random="90" Skill2ID="10023" Skill2="50" Skill2Random="80" Skill3ID="10024" Skill3="30" Skill3Random="70" />
+  <item Id="102" MiaoShu="0" Skill0ID="10024" Skill0="10" Skill0Random="100" Skill1ID="10030" Skill1="50" Skill1Random="100" Skill2ID="0" Skill2="0" Skill2Random="0" Skill3ID="0" Skill3="0" Skill3Random="0" />
+  <item Id="103" MiaoShu="0" Skill0ID="10024" Skill0="10" Skill0Random="100" Skill1ID="10029" Skill1="50" Skill1Random="100" Skill2ID="0" Skill2="0" Skill2Random="0" Skill3ID="0" Skill3="0" Skill3Random="0" />
+  <item Id="104" MiaoShu="0" Skill0ID="10031" Skill0="10" Skill0Random="50" Skill1ID="10032" Skill1="50" Skill1Random="80" Skill2ID="0" Skill2="0" Skill2Random="0" Skill3ID="0" Skill3="0" Skill3Random="0" />
+  <item Id="105" MiaoShu="巫灵" Skill0ID="10041" Skill0="50" Skill0Random="50" Skill1ID="10045" Skill1="50" Skill1Random="70" Skill2ID="10046" Skill2="30" Skill2Random="80" Skill3ID="0" Skill3="0" Skill3Random="0" />
+  <item Id="106" MiaoShu="生化死士" Skill0ID="10049" Skill0="20" Skill0Random="70" Skill1ID="10053" Skill1="50" Skill1Random="90" Skill2ID="0" Skill2="0" Skill2Random="0" Skill3ID="0" Skill3="0" Skill3Random="0" />
+  <item Id="107" MiaoShu="机械木偶" Skill0ID="10054" Skill0="0" Skill0Random="50" Skill1ID="10057" Skill1="60" Skill1Random="100" Skill2ID="10058" Skill2="40" Skill2Random="50" Skill3ID="0" Skill3="0" Skill3Random="0" />
+  <item Id="108" MiaoShu="河马" Skill0ID="10037" Skill0="30" Skill0Random="50" Skill1ID="10040" Skill1="50" Skill1Random="100" Skill2ID="0" Skill2="0" Skill2Random="0" Skill3ID="0" Skill3="0" Skill3Random="0" />
+</SkillAIWeight>

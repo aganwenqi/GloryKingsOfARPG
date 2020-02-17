@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FxData>
+  <item Id="1100001" Desc="电激光_减速" Name="state/laser_speed" BindingType="1" Delay="0" />
+  <item Id="1100002" Desc="灼伤" Name="state/burning" BindingType="1" Delay="0" />
+  <item Id="1001111" Desc="近战普攻1" Name="sw/sw_skill1" BindingType="1" Delay="0" />
+  <item Id="1001112" Desc="近战普攻2" Name="sw/sw_skill2" BindingType="1" Delay="0" />
+  <item Id="1001113" Desc="近战普攻3" Name="sw/sw_skill3" BindingType="1" Delay="0" />
+  <item Id="1001114" Desc="近战普攻4" Name="sw/sw_skill4" BindingType="1" Delay="0" />
+  <item Id="1001115" Desc="装逼刀_1" Name="sw/sw_skill5" BindingType="1" Delay="0.5" />
+  <item Id="1001116" Desc="猴气斩_1" Name="sw/sw_skill6" BindingType="1" Delay="0.33" />
+  <item Id="1001117" Desc="喝肥仔水" Name="sw/sw_skill7" BindingType="1" Delay="1" />
+  <item Id="1002111" Desc="装逼刀_2" Name="sw/sw_skill8" BindingType="1" Delay="0.5" />
+  <item Id="1002112" Desc="猴气斩_2" Name="sw/sw_skill9" BindingType="1" Delay="0" />
+  <item Id="1002117" Desc="肥仔水武器特效" Name="sw/sw_skill7_1" BindingType="2" Delay="1" />
+  <item Id="9001" Desc="受击特效" Name="sw/norml_hit" BindingType="4" Delay="0" />
+  <item Id="1001118" Desc="萝莉子弹_1" Name="ll/ll_skill1" BindingType="2" Delay="0.3" />
+  <item Id="1002118" Desc="萝莉子弹_2" Name="ll/ll_skill1_1" BindingType="1" Delay="0" />
+  <item Id="1001119" Desc="电激光_1" Name="ll/ll_skill6" BindingType="3" Delay="0.4" />
+  <item Id="1002120" Desc="电激光_2" Name="ll/ll_skill6_1" BindingType="1" Delay="0" />
+  <item Id="1002119" Desc="电激光_boom" Name="ll/ll_skill6_1_1" BindingType="1" Delay="0" />
+  <item Id="1001121" Desc="大轰炮_1" Name="ll/ll_skill7" BindingType="1" Delay="0.65" />
+  <item Id="1002121" Desc="大轰炮_2" Name="ll/ll_skill7_1" BindingType="1" Delay="0" />
+  <item Id="1002122" Desc="大轰炮_boom" Name="ll/ll_skill7_1_1" BindingType="1" Delay="0" />
+  <item Id="1001122" Desc="3段天雷施法" Name="ll/ll_skill5" BindingType="1" Delay="0" />
+  <item Id="1002123" Desc="3段天雷下降" Name="ll/ll_skill5_1" BindingType="1" Delay="0" />
+  <item Id="1001123" Desc="锤地爆蓄" Name="bull/bull_skill5" BindingType="2" Delay="0" />
+  <item Id="1001124" Desc="锤地爆炸" Name="bull/bull_skill5_1" BindingType="1" Delay="0.9" />
+  <item Id="1001125" Desc="锤地爆炸2" Name="bull/bull_skill5_2" BindingType="1" Delay="0.9" />
+  <item Id="1001126" Desc="小龙喷火" Name="xiaoLong/xl_skill5" BindingType="2" Delay="0.6" />
+  <item Id="1001127" Desc="机械虫发炮口_1" Name="jxInsect/jx_skill1" BindingType="2" Delay="0" />
+  <item Id="1002127" Desc="机械虫炮弹_2" Name="jxInsect/jx_skill1_1" BindingType="1" Delay="0" />
+  <item Id="1001128" Desc="河马蓄力" Name="hippo/hp_skill4" BindingType="2" Delay="0.3" />
+  <item Id="1002128" Desc="河马蓄力砸" Name="hippo/hp_skill4_1" BindingType="1" Delay="2.2" />
+  <item Id="1001140" Desc="巫师冲撞" Name="ghost/gh_skill5" BindingType="2" Delay="0" />
+  <item Id="1002129" Desc="巫灵魔法炮" Name="ghost/gh_skill6" BindingType="1" Delay="0" />
+  <item Id="1001141" Desc="生化死士空气掌" Name="alien/al_skill5" BindingType="3" Delay="0" />
+  <item Id="1001142" Desc="生化死士空气掌" Name="alien/al_skill5_1" BindingType="1" Delay="0.9" />
+</FxData>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MonsterAI>
+  <item Id="1001" Name="托儿索" behaviorType="1" PusueDis="15" StopDis="3" AttackDis="10" />
+</MonsterAI>

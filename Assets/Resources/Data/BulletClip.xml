@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BulletClip>
+  <item Id="101111" Name="猴气斩" SkillClip="0" DelaySkill="0" />
+  <item Id="101114" Name="大轰炮" SkillClip="ll/skill7_2" DelaySkill="0.2" />
+  <item Id="101115" Name="大轰炮爆炸" SkillClip="ll/skill7_3" DelaySkill="0" />
+  <item Id="101116" Name="电激光" SkillClip="ll/skill6_2" DelaySkill="0" />
+  <item Id="101117" Name="电激光爆炸" SkillClip="ll/skill6_3" DelaySkill="0" />
+  <item Id="101118" Name="3段天雷" SkillClip="ll/skill5_2" DelaySkill="0" />
+  <item Id="101121" Name="机械虫普攻1" SkillClip="" DelaySkill="0" />
+  <item Id="101122" Name="巫灵魔法炮" SkillClip="" DelaySkill="0" />
+</BulletClip>

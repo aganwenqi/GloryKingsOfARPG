@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DupSwitch>
+  <item Id="1" ChapterName="逃离孤儿院" DupIds="1001、1002" />
+  <item Id="2" ChapterName="绝命逃亡" DupIds="2001、2002" />
+  <item Id="3" ChapterName="回到峡谷" DupIds="3001、3002" />
+</DupSwitch>

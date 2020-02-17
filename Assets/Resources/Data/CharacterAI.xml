@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CharacterAI>
+  <item Id="100" Name="托儿索" behaviorType="1" PusueDis="30" StopDis="3" AttackDis="10" AttackAngle="10" FpsInterval="30" AttackInterval="2" BgStopTime="0.5" />
+  <item Id="101" Name="暴走萝莉" behaviorType="1" PusueDis="35" StopDis="6" AttackDis="20" AttackAngle="6" FpsInterval="30" AttackInterval="2" BgStopTime="0.5" />
+  <item Id="102" Name="锤子怪" behaviorType="1" PusueDis="30" StopDis="1.7" AttackDis="1.7" AttackAngle="10" FpsInterval="50" AttackInterval="2" BgStopTime="1" />
+  <item Id="103" Name="魔鬼叉" behaviorType="1" PusueDis="30" StopDis="1.5" AttackDis="1.5" AttackAngle="10" FpsInterval="100" AttackInterval="1" BgStopTime="0.5" />
+  <item Id="104" Name="小龙" behaviorType="1" PusueDis="30" StopDis="2" AttackDis="2.3" AttackAngle="10" FpsInterval="30" AttackInterval="1" BgStopTime="0.5" />
+  <item Id="105" Name="机械虫" behaviorType="1" PusueDis="30" StopDis="6" AttackDis="7" AttackAngle="2" FpsInterval="100" AttackInterval="1" BgStopTime="1" />
+  <item Id="106" Name="暴走萝莉(疯狂)" behaviorType="1" PusueDis="40" StopDis="6" AttackDis="35" AttackAngle="6" FpsInterval="10" AttackInterval="1" BgStopTime="0.5" />
+  <item Id="107" Name="蓝色章鱼" behaviorType="1" PusueDis="40" StopDis="3" AttackDis="4" AttackAngle="10" FpsInterval="100" AttackInterval="2" BgStopTime="1" />
+  <item Id="108" Name="蓝色河马" behaviorType="1" PusueDis="30" StopDis="3" AttackDis="6" AttackAngle="10" FpsInterval="30" AttackInterval="2" BgStopTime="1" />
+  <item Id="109" Name="巫灵" behaviorType="1" PusueDis="30" StopDis="1.5" AttackDis="7" AttackAngle="6" FpsInterval="40" AttackInterval="1" BgStopTime="0.5" />
+  <item Id="110" Name="生化死士" behaviorType="1" PusueDis="35" StopDis="2" AttackDis="3" AttackAngle="10" FpsInterval="30" AttackInterval="2" BgStopTime="1" />
+  <item Id="111" Name="机械木偶" behaviorType="1" PusueDis="35" StopDis="2" AttackDis="6" AttackAngle="10" FpsInterval="30" AttackInterval="2" BgStopTime="1" />
+</CharacterAI>

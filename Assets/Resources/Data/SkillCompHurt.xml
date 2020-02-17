@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SkillCompHurt>
+  <item Id="1" Desc="普攻组件1" Phy="1" Magic="0" PowerAdd="1" SpellAdd="0" MSpeedAdd="0" HpAdd="0" MpAdd="0" CritAdd="0" PhyDefendAdd="0" MagicDefendAdd="0" />
+  <item Id="2" Desc="普攻组件2" Phy="1" Magic="0" PowerAdd="1" SpellAdd="0" MSpeedAdd="0" HpAdd="0" MpAdd="0" CritAdd="0" PhyDefendAdd="0" MagicDefendAdd="0" />
+  <item Id="3" Desc="普攻组件3" Phy="1" Magic="0" PowerAdd="1" SpellAdd="0" MSpeedAdd="0" HpAdd="0" MpAdd="0" CritAdd="0" PhyDefendAdd="0" MagicDefendAdd="0" />
+  <item Id="4" Desc="普攻组件4" Phy="1" Magic="0" PowerAdd="1" SpellAdd="0" MSpeedAdd="0" HpAdd="0" MpAdd="0" CritAdd="0" PhyDefendAdd="0" MagicDefendAdd="0" />
+  <item Id="5" Desc="装逼刀" Phy="1" Magic="0" PowerAdd="1" SpellAdd="0" MSpeedAdd="0" HpAdd="0" MpAdd="0" CritAdd="0" PhyDefendAdd="0" MagicDefendAdd="0" />
+  <item Id="6" Desc="猴气斩" Phy="1" Magic="0.5" PowerAdd="1" SpellAdd="0.5" MSpeedAdd="0" HpAdd="0" MpAdd="0" CritAdd="0" PhyDefendAdd="0" MagicDefendAdd="0" />
+  <item Id="7" Desc="喝肥仔水" Phy="50" Magic="20" PowerAdd="9" SpellAdd="4" MSpeedAdd="4" HpAdd="50" MpAdd="50" CritAdd="20" PhyDefendAdd="10" MagicDefendAdd="10" />
+  <item Id="8" Desc="大轰炮" Phy="1.1" Magic="0.2" PowerAdd="1.1" SpellAdd="0.2" MSpeedAdd="0" HpAdd="0" MpAdd="0" CritAdd="0" PhyDefendAdd="0" MagicDefendAdd="0" />
+  <item Id="9" Desc="电激光" Phy="0.8" Magic="0.5" PowerAdd="0.8" SpellAdd="0.5" MSpeedAdd="0" HpAdd="0" MpAdd="0" CritAdd="0" PhyDefendAdd="0" MagicDefendAdd="0" />
+  <item Id="10" Desc="魔法1" Phy="0" Magic="1.7" PowerAdd="0" SpellAdd="1.7" MSpeedAdd="0" HpAdd="0" MpAdd="0" CritAdd="0" PhyDefendAdd="0" MagicDefendAdd="0" />
+  <item Id="11" Desc="强魔法" Phy="0.2" Magic="1.6" PowerAdd="0.2" SpellAdd="1.6" MSpeedAdd="0" HpAdd="0" MpAdd="0" CritAdd="0" PhyDefendAdd="0" MagicDefendAdd="0" />
+</SkillCompHurt>
